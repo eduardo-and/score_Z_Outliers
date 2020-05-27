@@ -121,4 +121,4 @@ Library that calculate outliers values with Score-Z
               z = [122363.0, -12566.0]
              
 
-**To run the examples on your machine, move the example.py file into your project and run.**
+**To run the examples on your machine, move the description.py file into your project and run.**
