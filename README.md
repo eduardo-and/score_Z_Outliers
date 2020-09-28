@@ -36,7 +36,7 @@ Library that calculate outliers values with Score-Z
         
         **Return:** New List with out outliers <br>
 
-        **Description:** The function remove outliers using recursive form of the function calculate_outliers. <br>
+        **Description:** The function remove outliers. <br>
 
         There is no limit to removals   
 
